@@ -1,0 +1,2 @@
+# minding
+memory
